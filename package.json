@@ -1,0 +1,27 @@
+{
+  "name": "react-multiplayer-quiz",
+  "version": "1.0.0",
+  "description": "Online multiplayer quiz with real-time scoreboard build in ReactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyvasq/react-multiplayer-quiz.git"
+  },
+  "author": "Eddybrando Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddyvasq/react-multiplayer-quiz/issues"
+  },
+  "homepage": "https://github.com/eddyvasq/react-multiplayer-quiz#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
